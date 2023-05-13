@@ -4,3 +4,4 @@ repo = "git@github.com:david-macmahon/MyJuliaRegistry"
 description = "My not-yet-ready-for-General packages"
 
 [packages]
+87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
