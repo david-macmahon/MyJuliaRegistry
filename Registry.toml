@@ -8,3 +8,4 @@ description = "My not-yet-ready-for-General packages"
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
 c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
 d7a65883-3b66-4fe4-a274-f0f417c4cddf = { name = "RadioInterferometry", path = "R/RadioInterferometry" }
+da57cb61-2122-4cb9-bf56-fd6f75f7b468 = { name = "PoolQueues", path = "P/PoolQueues" }
