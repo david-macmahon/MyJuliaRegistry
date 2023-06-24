@@ -1,6 +1,6 @@
 name = "davidm"
 uuid = "36fb8131-d9cf-459b-9e5d-5b61eb169e68"
-repo = "git@github.com:david-macmahon/MyJuliaRegistry"
+repo = "https://github.com/david-macmahon/MyJuliaRegistry"
 description = "My not-yet-ready-for-General packages"
 
 [packages]
