@@ -5,6 +5,7 @@ description = "My not-yet-ready-for-General packages"
 
 [packages]
 5f96b823-c651-45d3-b54e-600e338e6562 = { name = "SeticoreCapnp", path = "S/SeticoreCapnp" }
+6e2f7c64-92ce-42bb-83af-8f0e5f56b763 = { name = "HashpipeDatabufs", path = "H/HashpipeDatabufs" }
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
 c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
