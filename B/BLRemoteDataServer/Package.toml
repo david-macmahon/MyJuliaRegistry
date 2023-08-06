@@ -1,0 +1,3 @@
+name = "BLRemoteDataServer"
+uuid = "ff10e4b9-378f-4bad-8d64-19def9d79a0d"
+repo = "http://github.com/david-macmahon/BLRemoteDataServer.jl"

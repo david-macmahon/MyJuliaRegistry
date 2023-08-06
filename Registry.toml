@@ -12,3 +12,4 @@ c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
 d7a65883-3b66-4fe4-a274-f0f417c4cddf = { name = "RadioInterferometry", path = "R/RadioInterferometry" }
 da57cb61-2122-4cb9-bf56-fd6f75f7b468 = { name = "PoolQueues", path = "P/PoolQueues" }
 f722d36e-4eb8-44c6-8f06-e9434a5c3fdb = { name = "HpguppiDatabufs", path = "H/HpguppiDatabufs" }
+ff10e4b9-378f-4bad-8d64-19def9d79a0d = { name = "BLRemoteDataServer", path = "B/BLRemoteDataServer" }
