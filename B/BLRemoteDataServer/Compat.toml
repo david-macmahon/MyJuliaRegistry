@@ -1,0 +1,9 @@
+["0.3-0"]
+Blio = "0.5.10-0.5"
+Genie = "5.18.1-5"
+H5Zbitshuffle = "0.1.1-0.1"
+HDF5 = "0.16.15-0.16"
+HTTP = "1.9.14-1"
+SeticoreCapnp = "0.11"
+SwagUI = "0.10"
+SwaggerMarkdown = "0.2.1-0.2"
