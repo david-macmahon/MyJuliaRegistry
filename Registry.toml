@@ -8,6 +8,7 @@ description = "My not-yet-ready-for-General packages"
 6e2f7c64-92ce-42bb-83af-8f0e5f56b763 = { name = "HashpipeDatabufs", path = "H/HashpipeDatabufs" }
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
+9e73f634-81c6-42cf-8211-fb9f7b28b16d = { name = "INotify", path = "I/INotify" }
 c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
 d7a65883-3b66-4fe4-a274-f0f417c4cddf = { name = "RadioInterferometry", path = "R/RadioInterferometry" }
 da57cb61-2122-4cb9-bf56-fd6f75f7b468 = { name = "PoolQueues", path = "P/PoolQueues" }
