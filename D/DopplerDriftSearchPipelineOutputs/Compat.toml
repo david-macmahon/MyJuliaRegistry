@@ -1,0 +1,6 @@
+[0]
+Arrow = "2.7.0-2"
+DataFrames = "1.6.1-1"
+DelimitedFiles = "1.9.1-1"
+SortMerge = "1.4.0-1"
+julia = "1.6.0-1"
