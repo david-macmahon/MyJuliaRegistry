@@ -9,6 +9,7 @@ description = "My not-yet-ready-for-General packages"
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
 751b3f49-6b1d-405b-83ce-d0b609eaf806 = { name = "UVH5Files", path = "U/UVH5Files" }
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
+947ddd50-af71-4e5f-8796-398fc6122734 = { name = "BeamformerRecipes", path = "B/BeamformerRecipes" }
 9e73f634-81c6-42cf-8211-fb9f7b28b16d = { name = "INotify", path = "I/INotify" }
 a3308ebd-878a-40c3-94ea-c874aaa84770 = { name = "FringeExplorer", path = "F/FringeExplorer" }
 c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
