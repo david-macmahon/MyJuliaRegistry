@@ -7,6 +7,7 @@ description = "My not-yet-ready-for-General packages"
 5f96b823-c651-45d3-b54e-600e338e6562 = { name = "SeticoreCapnp", path = "S/SeticoreCapnp" }
 6e2f7c64-92ce-42bb-83af-8f0e5f56b763 = { name = "HashpipeDatabufs", path = "H/HashpipeDatabufs" }
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
+7080b7d2-8992-493a-ad79-22ab2a732ff5 = { name = "CoherentDedispersion", path = "C/CoherentDedispersion" }
 751b3f49-6b1d-405b-83ce-d0b609eaf806 = { name = "UVH5Files", path = "U/UVH5Files" }
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
 947ddd50-af71-4e5f-8796-398fc6122734 = { name = "BeamformerRecipes", path = "B/BeamformerRecipes" }

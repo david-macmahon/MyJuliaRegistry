@@ -1,0 +1,3 @@
+name = "CoherentDedispersion"
+uuid = "7080b7d2-8992-493a-ad79-22ab2a732ff5"
+repo = "https://github.com/david-macmahon/CoherentDedispersion.jl"
