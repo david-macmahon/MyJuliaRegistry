@@ -1,3 +1,3 @@
 name = "BLRemoteDataClient"
 uuid = "fb54281b-2328-43f0-88b5-aa616f75139e"
-repo = "http://github.com/david-macmahon/BLRemoteDataClient.jl"
+repo = "https://github.com/david-macmahon/BLRemoteDataClient.jl"
