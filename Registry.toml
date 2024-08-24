@@ -4,6 +4,7 @@ repo = "https://github.com/david-macmahon/MyJuliaRegistry"
 description = "My not-yet-ready-for-General packages"
 
 [packages]
+3c05c407-b7dd-4203-808a-fc0d81ac5878 = { name = "DopplerDriftSearchTools", path = "D/DopplerDriftSearchTools" }
 5f96b823-c651-45d3-b54e-600e338e6562 = { name = "SeticoreCapnp", path = "S/SeticoreCapnp" }
 6e2f7c64-92ce-42bb-83af-8f0e5f56b763 = { name = "HashpipeDatabufs", path = "H/HashpipeDatabufs" }
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
