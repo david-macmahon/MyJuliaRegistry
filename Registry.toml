@@ -22,4 +22,5 @@ ea31d579-0397-4ae1-bf59-a5e8720874f9 = { name = "Tsys", path = "T/Tsys" }
 ee334479-6f21-49fc-a9ed-05530e45cd44 = { name = "BluseRawWatch", path = "B/BluseRawWatch" }
 f722d36e-4eb8-44c6-8f06-e9434a5c3fdb = { name = "HpguppiDatabufs", path = "H/HpguppiDatabufs" }
 fb54281b-2328-43f0-88b5-aa616f75139e = { name = "BLRemoteDataClient", path = "B/BLRemoteDataClient" }
+fb9f5a76-33a9-4170-a29d-c7447c215bd7 = { name = "FrequencyDriftRateTransforms", path = "F/FrequencyDriftRateTransforms" }
 ff10e4b9-378f-4bad-8d64-19def9d79a0d = { name = "BLRemoteDataServer", path = "B/BLRemoteDataServer" }
