@@ -1,0 +1,3 @@
+name = "SpectralKurtosisEstimators"
+uuid = "43fa2dcf-e260-4b0e-9e84-2eb1e8c3adfe"
+repo = "https://github.com/david-macmahon/SpectralKurtosisEstimators.jl.git"
