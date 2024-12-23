@@ -22,6 +22,7 @@ c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
 d7a65883-3b66-4fe4-a274-f0f417c4cddf = { name = "RadioInterferometry", path = "R/RadioInterferometry" }
 da57cb61-2122-4cb9-bf56-fd6f75f7b468 = { name = "PoolQueues", path = "P/PoolQueues" }
 dce9cb67-2d69-4dbd-b3f2-02d6a32bde18 = { name = "DopplerDriftSearchPipelineOutputs", path = "D/DopplerDriftSearchPipelineOutputs" }
+e22505fa-d5cb-4f7b-9088-d54cc7e0689e = { name = "DirWalkers", path = "D/DirWalkers" }
 ea31d579-0397-4ae1-bf59-a5e8720874f9 = { name = "Tsys", path = "T/Tsys" }
 ee334479-6f21-49fc-a9ed-05530e45cd44 = { name = "BluseRawWatch", path = "B/BluseRawWatch" }
 f722d36e-4eb8-44c6-8f06-e9434a5c3fdb = { name = "HpguppiDatabufs", path = "H/HpguppiDatabufs" }
