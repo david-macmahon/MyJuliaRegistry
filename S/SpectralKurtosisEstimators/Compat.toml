@@ -1,0 +1,8 @@
+["0.3 - 0"]
+ApproxFun = "0.13.28 - 0.13"
+Distributions = "0.25.118 - 0.25"
+Memoize = "0.4.4 - 0.4"
+Roots = "2.2.6 - 2"
+SpecialFunctions = "2.5.0 - 2"
+Statistics = "1.11.1 - 1"
+StatsBase = "0.34.4 - 0.34"
