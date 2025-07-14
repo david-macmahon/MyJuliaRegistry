@@ -25,6 +25,7 @@ dce9cb67-2d69-4dbd-b3f2-02d6a32bde18 = { name = "DopplerDriftSearchPipelineOutpu
 e22505fa-d5cb-4f7b-9088-d54cc7e0689e = { name = "DirWalkers", path = "D/DirWalkers" }
 ea31d579-0397-4ae1-bf59-a5e8720874f9 = { name = "Tsys", path = "T/Tsys" }
 ee334479-6f21-49fc-a9ed-05530e45cd44 = { name = "BluseRawWatch", path = "B/BluseRawWatch" }
+f69cf586-3b52-44a8-bca2-4507e5e0f903 = { name = "InfinibandVerbs", path = "I/InfinibandVerbs" }
 f722d36e-4eb8-44c6-8f06-e9434a5c3fdb = { name = "HpguppiDatabufs", path = "H/HpguppiDatabufs" }
 fb54281b-2328-43f0-88b5-aa616f75139e = { name = "BLRemoteDataClient", path = "B/BLRemoteDataClient" }
 fb9f5a76-33a9-4170-a29d-c7447c215bd7 = { name = "FrequencyDriftRateTransforms", path = "F/FrequencyDriftRateTransforms" }
