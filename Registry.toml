@@ -4,6 +4,7 @@ repo = "https://github.com/david-macmahon/MyJuliaRegistry"
 description = "My not-yet-ready-for-General packages"
 
 [packages]
+16d53293-3c61-4d20-8ed2-7f05333d7c0c = { name = "KATCP", path = "K/KATCP" }
 3c05c407-b7dd-4203-808a-fc0d81ac5878 = { name = "DopplerDriftSearchTools", path = "D/DopplerDriftSearchTools" }
 43fa2dcf-e260-4b0e-9e84-2eb1e8c3adfe = { name = "SpectralKurtosisEstimators", path = "S/SpectralKurtosisEstimators" }
 5f96b823-c651-45d3-b54e-600e338e6562 = { name = "SeticoreCapnp", path = "S/SeticoreCapnp" }
