@@ -1,3 +1,7 @@
-["0.12.1-0"]
+["0.12.1"]
 Blio = "0.3.0-*"
 RadioInterferometry = "0.3.0-*"
+
+["0.12.2 - 0"]
+Blio = "0.3.0 - *"
+RadioInterferometry = "0.3.0 - *"
