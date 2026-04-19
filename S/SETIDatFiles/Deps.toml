@@ -1,0 +1,5 @@
+[0]
+AstroAngles = "5c4adb95-c1fc-4c53-b4ea-2a94080c53d2"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
