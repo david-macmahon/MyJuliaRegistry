@@ -1,0 +1,13 @@
+[0]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+Blio = "87855aa7-8b24-49b4-b316-97c011f78d17"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+DopplerDriftSearchTools = "3c05c407-b7dd-4203-808a-fc0d81ac5878"
+FrequencyDriftRateTransforms = "fb9f5a76-33a9-4170-a29d-c7447c215bd7"
+H5Zbitshuffle = "51b4e782-877f-4ccf-958a-27bf628210da"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+PoolQueues = "da57cb61-2122-4cb9-bf56-fd6f75f7b468"
+SharedArrays = "1a1011a3-84de-559e-8e89-a11a2f7dc383"
