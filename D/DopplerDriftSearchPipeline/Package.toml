@@ -1,3 +1,3 @@
 name = "DopplerDriftSearchPipeline"
 uuid = "459b9226-fc40-41c6-aee6-3a5ca35abf52"
-repo = "git@github.com:david-macmahon/DopplerDriftSearchPipeline.jl"
+repo = "https://github.com/david-macmahon/DopplerDriftSearchPipeline.jl"
