@@ -15,6 +15,7 @@ description = "My not-yet-ready-for-General packages"
 7080b7d2-8992-493a-ad79-22ab2a732ff5 = { name = "CoherentDedispersion", path = "C/CoherentDedispersion" }
 751b3f49-6b1d-405b-83ce-d0b609eaf806 = { name = "UVH5Files", path = "U/UVH5Files" }
 87855aa7-8b24-49b4-b316-97c011f78d17 = { name = "Blio", path = "B/Blio" }
+8ce9df8c-dba9-49be-9fd3-d4a0ef72fecc = { name = "CapnProto", path = "C/CapnProto" }
 947ddd50-af71-4e5f-8796-398fc6122734 = { name = "BeamformerRecipes", path = "B/BeamformerRecipes" }
 9a800b32-75b6-4821-8650-313cecfd4ac2 = { name = "HitFDRs", path = "H/HitFDRs" }
 9e73f634-81c6-42cf-8211-fb9f7b28b16d = { name = "INotify", path = "I/INotify" }
