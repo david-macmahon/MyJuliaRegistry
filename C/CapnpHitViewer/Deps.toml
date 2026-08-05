@@ -1,0 +1,6 @@
+[0]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+CapnProto = "8ce9df8c-dba9-49be-9fd3-d4a0ef72fecc"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Tachikoma = "468859d6-42d8-48b7-8ad9-1d312e0e3b0a"
