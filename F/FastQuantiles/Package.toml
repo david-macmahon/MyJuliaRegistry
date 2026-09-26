@@ -1,0 +1,3 @@
+name = "FastQuantiles"
+uuid = "606b4d82-a40a-45cf-9ba1-c57c34d0d81c"
+repo = "https://github.com/david-macmahon/FastQuantiles.jl"

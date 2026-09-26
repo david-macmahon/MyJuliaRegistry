@@ -11,6 +11,7 @@ description = "My not-yet-ready-for-General packages"
 43fa2dcf-e260-4b0e-9e84-2eb1e8c3adfe = { name = "SpectralKurtosisEstimators", path = "S/SpectralKurtosisEstimators" }
 459b9226-fc40-41c6-aee6-3a5ca35abf52 = { name = "DopplerDriftSearchPipeline", path = "D/DopplerDriftSearchPipeline" }
 5f96b823-c651-45d3-b54e-600e338e6562 = { name = "SeticoreCapnp", path = "S/SeticoreCapnp" }
+606b4d82-a40a-45cf-9ba1-c57c34d0d81c = { name = "FastQuantiles", path = "F/FastQuantiles" }
 6e2f7c64-92ce-42bb-83af-8f0e5f56b763 = { name = "HashpipeDatabufs", path = "H/HashpipeDatabufs" }
 6e31318f-3d89-4707-97ff-aaba23e5678c = { name = "BlioSpectroscopy", path = "B/BlioSpectroscopy" }
 7080b7d2-8992-493a-ad79-22ab2a732ff5 = { name = "CoherentDedispersion", path = "C/CoherentDedispersion" }
