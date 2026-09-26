@@ -27,6 +27,7 @@ b669612f-f293-415c-b76b-98013caf8fbf = { name = "DistributedSigprocRequantizer",
 b785e3ae-1800-42e5-9c85-93e04f1353d9 = { name = "PFBPassband", path = "P/PFBPassband" }
 b88319e1-9984-40dc-91e8-bdda3b8e5b03 = { name = "NetworkHeaders", path = "N/NetworkHeaders" }
 c0371cf2-69c1-404b-9565-f01b56f8974e = { name = "PyCASA", path = "P/PyCASA" }
+cd5735f5-9448-4e01-a8d7-1e3d1ac6f922 = { name = "NoiseEstimators", path = "N/NoiseEstimators" }
 d7a65883-3b66-4fe4-a274-f0f417c4cddf = { name = "RadioInterferometry", path = "R/RadioInterferometry" }
 da57cb61-2122-4cb9-bf56-fd6f75f7b468 = { name = "PoolQueues", path = "P/PoolQueues" }
 dce9cb67-2d69-4dbd-b3f2-02d6a32bde18 = { name = "DopplerDriftSearchPipelineOutputs", path = "D/DopplerDriftSearchPipelineOutputs" }
