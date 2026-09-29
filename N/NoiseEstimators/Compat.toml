@@ -1,5 +1,10 @@
 [0]
-FastQuantiles = "0.1"
 SpecialFunctions = "2"
 Statistics = "1"
 julia = "1.10.0 - 1"
+
+["0 - 0.2"]
+FastQuantiles = "0.1"
+
+["0.3 - 0"]
+FastQuantiles = "0.2"
