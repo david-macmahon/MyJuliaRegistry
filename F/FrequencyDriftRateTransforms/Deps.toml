@@ -2,5 +2,11 @@
 AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+["0 - 0.9"]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
+["0.10 - 0"]
+FastQuantiles = "606b4d82-a40a-45cf-9ba1-c57c34d0d81c"
+NoiseEstimators = "cd5735f5-9448-4e01-a8d7-1e3d1ac6f922"
